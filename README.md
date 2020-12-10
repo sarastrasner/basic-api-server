@@ -5,8 +5,8 @@
 ### Author: Sara Strasner
 
 ### Links and Resources
-https://github.com/sarastrasner/basic-api-server/pull/2
-- [Latest PR](https://github.com/sarastrasner/basic-api-server/pull/1)
+
+- [Latest PR](https://github.com/sarastrasner/basic-api-server/pull/3)
 - [ci/cd](https://github.com/sarastrasner/basic-api-server/actions)
 - [front-end application](https://sarastrasner-basic-api-server.herokuapp.com/) 
 
