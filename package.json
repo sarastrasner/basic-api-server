@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/sarastrasner/basic-api-server#readme",
   "dependencies": {
-    "dotenv": "^8.2.0",
+    "dotenv": "^8.5.1",
     "express": "^4.17.1",
     "jest": "^26.6.3",
     "method-override": "^3.0.0",
